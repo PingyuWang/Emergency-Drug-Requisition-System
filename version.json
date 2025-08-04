@@ -1,5 +1,6 @@
 {
   "version": "2.4",
-  "url": "您新版安裝程式在網路上的完整下載網址",
+  "url": "https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/v2.4/EDRS.exe",
   "notes": "1. 新增自動檢查更新功能\n2. 修正藥品設定關鍵字模糊搜尋\n3. 修正搜尋字串搜尋後自動刪除"
 }
+
