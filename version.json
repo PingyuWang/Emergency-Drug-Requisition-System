@@ -1,8 +1,9 @@
 {
-  "version": "2.6",
-  "url": "https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/v2.6/EDRSv2.6.exe",
-  "notes": "1. 調整調撥處理單預設視窗高度\n2. 修正調撥處理單修改規則\n3. 新增庫別資料顏色\n4. 新增狀態Deleted灰色底色\n5. 修正Excel匯出庫別欄位\n6. 新增領藥號欄位供未來發藥櫃檯程式使用"
+  "version": "2.7",
+  "url": "https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/v2.7/EDRSv2.7.exe",
+  "notes": "1. 修正值班調撥時調撥單儲存錯誤"
 }
+
 
 
 
