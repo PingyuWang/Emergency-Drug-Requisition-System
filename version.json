@@ -1,8 +1,9 @@
 {
   "version": "2.8",
-  "url": "https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/2.8/EDRSv2.8.exe",
-  "notes": "1. 修正藥庫工作站提醒當機錯誤/n2. 修正自動更新視窗顯示問題"
+  "url": "https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/2.8/EDRSv2.8.0.exe",
+  "notes": "1. 修正藥庫工作站提醒當機錯誤\n2. 修正自動更新視窗顯示問題"
 }
+
 
 
 
