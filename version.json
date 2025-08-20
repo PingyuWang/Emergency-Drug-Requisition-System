@@ -1,8 +1,9 @@
 {
-  "version": "2.9",
-  "url": "https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/v2.9/EDRSv2.9.exe",
-  "notes": "1. 調整資料庫位置\n2. 新增狀態列\n3. 新增藥品設定清單排序功能\n4. 調撥單資料更新寫入更新者\n5. 匯出報表增加時分設定及預設起迄時間\n6. 新增回寫作帳人功能"
+  "version": "2.10",
+  "url": "https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/v2.10/EDRSv2.10.exe",
+  "notes": "1. 藥庫工作站模式增加新增調撥單功能\n2. 新增藥品管理匯出功能\n3. 調整工作站模式調撥單清單呈現置中"
 }
+
 
 
 
