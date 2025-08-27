@@ -9,7 +9,7 @@ V2.11
 V2.10-Lite
 精簡版供Win7環境使用，僅有新增調撥申請單功能
 下載：
-https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/v2.10-lite/EDRS_lite.exe
+https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/v2.10-lite/EDRS.lite.exe
 
 V2.10
 藥庫工作站模式增加新增調撥單功能
