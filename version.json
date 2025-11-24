@@ -1,8 +1,9 @@
 {
-  "version": "2.12",
-  "url": "https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/v2.12/v2.12-2.exe",
-  "notes": "1. 新增UD調撥對應選單選項\n 2.作帳畫面庫別顏色\n 3.新增作帳畫面庫別篩選及回到藥庫工作站按鈕\n"
+  "version": "2.13",
+  "url": "https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/v2.13/v2.13.exe",
+  "notes": "1. 新增欠藥中邏輯\n 2.叫藥5分鐘跳出視窗輸入原因\n 3.刪除表單可更新備註\n"
 }
+
 
 
 
