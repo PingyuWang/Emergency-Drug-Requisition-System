@@ -1,8 +1,9 @@
 {
-  "version": "2.13",
-  "url": "https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/v2.13/v2.13.exe",
-  "notes": "1. 新增欠藥中邏輯\n 2.叫藥5分鐘跳出視窗輸入原因\n 3.刪除表單可更新備註\n"
+  "version": "2.14",
+  "url": "https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/v2.14/v2.14.exe",
+  "notes": "Bug fixed\n 1. 新增欠藥中邏輯\n 2.叫藥5分鐘跳出視窗輸入原因\n 3.刪除表單可更新備註\n"
 }
+
 
 
 
