@@ -1,7 +1,7 @@
 {
-  "version": "2.15",
-  "url": "https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/v2.15/v2.15.exe",
-  "notes": "1. 待處理調撥單列表後方多一欄作帳人\n 2.調撥庫別增加門診化療室ADC\n "
+  "version": "3.1",
+  "url": "https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/v3.1/v3.1.exe",
+  "notes": "1. 新增取消欠藥狀態按鈕\n 2.更改圖標\n "
 }
 
 
