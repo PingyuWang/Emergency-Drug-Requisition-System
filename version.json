@@ -1,7 +1,7 @@
 {
-  "version": "3.1",
-  "url": "https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/v3.1/v3.1.exe",
-  "notes": "1. 新增取消欠藥狀態按鈕\n 2.更改圖標\n "
+  "version": "3.2",
+  "url": "https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/v3.2/v3.2.exe",
+  "notes": "1. 修復藥庫工作站起單人記錄\n 2.修復欠藥中品項置頂功能\n "
 }
 
 
