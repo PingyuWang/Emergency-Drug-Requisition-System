@@ -1,7 +1,7 @@
 {
-  "version": "3.2",
-  "url": "https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/v3.2/v3.2.exe",
-  "notes": "1. 修復藥庫工作站起單人記錄\n 2.修復欠藥中品項置頂功能\n "
+  "version": "3.3",
+  "url": "https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/v3.3/v3.3.exe",
+  "notes": "1. 修正藥品設定 Excel 匯出欄位恢復舊版英文格式\n 2.新增門診藥局(交車-口服外用)獨立調撥庫別代碼\n "
 }
 
 
