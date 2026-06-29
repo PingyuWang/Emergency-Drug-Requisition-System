@@ -1,7 +1,7 @@
 {
-  "version": "3.5",
-  "url": "https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/v3.5/v3.5.exe",
-  "notes": "1. 接單bug修正 "
+  "version": "3.6",
+  "url": "https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/v3.6/v3.6.exe",
+  "notes": "1. 新增閒置自動登出 "
 }
 
 
