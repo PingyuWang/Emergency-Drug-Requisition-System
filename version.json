@@ -1,7 +1,7 @@
 {
-  "version": "3.7",
-  "url": "https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/v3.7/v3.7.exe",
-  "notes": "1. 修正匯出跨區間資料 "
+  "version": "3.8",
+  "url": "https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/v3.8/v3.8.exe",
+  "notes": "1. 修正長藥名破版問題 2. 登出時清空上一位使用者資料 "
 }
 
 
