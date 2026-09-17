@@ -1,5 +1,5 @@
 {
-  "version": "3.10",
-  "url": "https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/v3.10/v3.10.exe",
-  "notes": "1. 申請頁拿掉「值班調撥」自行結案選項，改由藥庫工作站統一處理\n2. 值班時段（平日17:00後、例假日）選藥時「交給誰」自動帶入「值班同仁」，可自行更改\n3. 調撥歷史紀錄、工作站列表查詢區間預設改為「上一次值班起算」，並可輸入時間精確查詢\n4. 申請頁歷史紀錄、作帳管理新增藥品關鍵字搜尋（藥名／料號／儲位）\n5. 查詢結果超過系統上限未完整顯示時，會提示縮小查詢區間"
+  "version": "3.10.1",
+  "url": "https://github.com/PingyuWang/Emergency-Drug-Requisition-System/releases/download/v3.10.1/v3.10.1.exe",
+  "notes": "1. 藥庫工作站待處理調撥單列表新增藥品搜尋（藥名／料號／儲位，同建單搜藥邏輯）"
 }
